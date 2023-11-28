@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Hacer la compra",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "name": "Preparar la presentación",
+    "completed": true
+  },
+  {
+    "id": "3",
+    "name": "Revisar correos electrónicos",
+    "completed": false
+  }
+]
